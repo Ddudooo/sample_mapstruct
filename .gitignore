@@ -1,0 +1,9 @@
+# 필요 없는 파일
+.gradle
+.idea
+out
+build/
+src/main/generated/
+
+# 테스트 소스 필요없는 파일
+src/test/generated_tests
